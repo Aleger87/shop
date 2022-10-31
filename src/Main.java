@@ -16,7 +16,7 @@ public class Main {
         persons.add("Михаил");
         persons.add("Михаил");
 ;
-        //Shop.addPerson(persons);
+        Shop.addPerson(persons);
 
         example();
     }
